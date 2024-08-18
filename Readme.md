@@ -1,3 +1,5 @@
+I would like to thank the content creator "giuse" in helping me build the bot , His youtube video gave me insights on how to do this
+
 **PHASE-1**
 
 here in this file am going to document each and every step that i did to code the chess bot that will probably play like me when i finish this process.
