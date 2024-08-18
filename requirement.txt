@@ -1,0 +1,7 @@
+sklearn
+pandas
+numpy
+tensorflow
+chess
+PyQt5
+stockfish
